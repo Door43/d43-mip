@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mip:home|Door43 (mip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mip|d43-mip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mip/archive/master.zip|d43-mip.zip]]
+
+**Recent Changes**
+{{changes>ns = mip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mip|Ethnologue data]]
+
